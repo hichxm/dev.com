@@ -12,17 +12,16 @@ Le site est partie comme base avec le framework **Laravel 5.6**, nous utilisons 
 Pour nous aider rien de plus simple, plusieurs chose sont faite pour sa:
 
  - Vous ne savez pas coder ? Rendez vous dans l'onglet issue (`PRESS: G + I`)
-
-   - Faite un rapport de bug
-   - Donnez nous votre avis
-   - Poser vos questions
+    - Faite un rapport de bug
+    - Donnez nous votre avis
+    - Poser vos questions
 
 
  - Vous savez coder ? Rendez vous dans l'onglet pull request (`PRESS: G + P`)
+   - Faite un fork et modifier la partie du code qui ne vous plait pas
+   - Detailler vos changement à l'aide de commentaire et de commit détaillé
+   - Faite les tests avant de proposer une pull request
 
-  - Faite un fork et modifier la partie du code qui ne vous plait pas
-  - Detailler vos changement à l'aide de commentaire et de commit détaillé
-  - Faite les tests avant de proposer une pull request
 
 
 ## Si vous avez la moindre question, n'hésitez pas
